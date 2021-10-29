@@ -1,0 +1,26 @@
+html {
+    
+}
+
+body {
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 3em;
+}
+
+p::first-line {
+    margin: 1em;
+}
+
+  small {
+    font-style: italic;
+ }
+ 
+ a:link { color: ffffff;}
+ a:visited { color: eaeaea;}
+ a:hover {color:blue;}
+ 
+ 
+ 
+
+
